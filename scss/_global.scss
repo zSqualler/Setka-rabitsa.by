@@ -1,0 +1,36 @@
+html, 
+body {
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+  line-height: 26px;
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex-grow: 1;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
+a {
+  font-size: 16px;
+  line-height: 26px;
+  color: #000;
+}
+
+.title {
+  font-size: 30px;
+  line-height: 1.2;
+  text-align: center;
+  @extend %helvetica-400;
+  color: $title;
+}
