@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="30px" viewBox="0 0 30 30" version="1.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+<path id="mail" class="cls-1" d="M 25 5 L 5 5 C 3.625 5 2.511719 6.125 2.511719 7.5 L 2.5 22.5 C 2.5 23.875 3.625 25 5 25 L 25 25 C 26.375 25 27.5 23.875 27.5 22.5 L 27.5 7.5 C 27.5 6.125 26.375 5 25 5 Z M 25 22.5 L 5 22.5 L 5 10 L 15 16.25 L 25 10 Z M 15 13.75 L 5 7.5 L 25 7.5 Z M 15 13.75 "/>
+</svg>
